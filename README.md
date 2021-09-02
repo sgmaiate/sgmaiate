@@ -2,7 +2,7 @@
 ###    Seja bem vindo ao meu perfil no GitHub.
 
 
-- 🔭 Atualmente estou: Desempregado
+- 🔭 Atualmente estou: Em busca do primeiro emprego e de experiência profissional.
 - 📝 Aprendendo: Python
 - 📫 Contato: sg.maiat@gmail.com
 - 🚹 Pronomes: ele/dele
