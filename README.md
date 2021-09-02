@@ -26,6 +26,7 @@
   <a href = "https://twitter.com/sgmaiate"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   <a href = "https://www.twitch.tv/maiate"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   <a href = "https://discord.gg/yWdQYVB7KJ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    
     https:/https://github.com/sgmaiate/blob/output/github-contribution-grid-snake.svg
     
 </div>
