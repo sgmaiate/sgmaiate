@@ -13,9 +13,9 @@
   <img heigh="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgmaiate&layout=compact&langs+count=16&theme=radical"/>  
 </div>
   
-<div style="display: inline_block"><br>
+<div>
   <img allign="center" alt="SG-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img allign="right" alt="SG-Godot" height="120" width="120" src="https://cdn.discordapp.com/attachments/795499893166833694/882682804033441872/godot-no.gif">
+  <img style="margin-left:80%;" alt="SG-Godot" height="120" width="120" src="https://cdn.discordapp.com/attachments/795499893166833694/882682804033441872/godot-no.gif">
 </div>
 
 ##                                   
