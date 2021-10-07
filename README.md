@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou: Em busca do primeiro emprego e de experiência profissional.
-- 📝 Aprendendo: Python
+- 📝 Aprendendo: HTML, CSS e Javascript
 - 📫 Contato: sg.maiat@gmail.com
 - 🚹 Pronomes: ele/dele
 
