@@ -18,10 +18,10 @@
   <img alt="SG-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img alt="SG-CSS" heigt="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img alt="SG-JS" heigt="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="SG-Godot" height="120" width="120" src="https://cdn.discordapp.com/attachments/795499893166833694/882682804033441872/godot-no.gif">
+  <img align="right" alt="SG-Godot" height="120" width="120" src="https://cdn.discordapp.com/attachments/795499893166833694/882682804033441872/godot-no.gif">   
 </div>
 
-##                                   
+##                                
 
 <div>
   <a href = "https://web.facebook.com/sandro.maiate.33/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
