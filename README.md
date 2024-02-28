@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou: Em busca do primeiro emprego e de experiência profissional.
 - 📝 Aprendendo: React, Typescript, Sass e API Rest
 - 📫 Contato: sg.maiat@gmail.com
-- 🚹 Pronomes: ele/dele
+
 
 <div>
   <a href="https://www.twitch.tv/maiate"></a>
