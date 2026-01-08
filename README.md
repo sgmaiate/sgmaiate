@@ -1,32 +1,57 @@
-### Olá! eu sou Sandro Maiate.
-###    Seja bem vindo ao meu perfil no GitHub.
+# 👋 Olá, eu sou o Sandro
 
+Sou profissional de Tecnologia da Informação com experiência em **Suporte Técnico N1/N2**, atuando com ambientes corporativos, infraestrutura e atendimento a usuários.  
+Atualmente estou em **transição gradual para Desenvolvimento Web**, focando em bases sólidas e projetos práticos.
 
-- 🔭 Atualmente estou: Em busca do primeiro emprego e de experiência profissional.
-- 📝 Aprendendo: React, Typescript, Sass e API Rest
-- 📫 Contato: sg.maiat@gmail.com
+---
 
+## 🚀 Em aprendizado contínuo
 
-<div>
-  <a href="https://www.twitch.tv/maiate"></a>
-  <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=sgmaiate&show_icons=true&theme=radical"/>
-  <img heigh="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgmaiate&layout=compact&langs+count=16&theme=radical"/>  
-</div>
-  
-<div>
-  <img alt="SG-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="SG-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img alt="SG-CSS" heigt="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img alt="SG-JS" heigt="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" alt="SG-Godot" height="120" width="120" src="https://cdn.discordapp.com/attachments/795499893166833694/882682804033441872/godot-no.gif">   
-</div>
+Tenho estudado e praticado desenvolvimento web com foco em:
 
-##                                
+- **Front End:** HTML, CSS, JavaScript  
+- **Back End (em estudo):** Node.js  
+- **Frameworks (em estudo):** React  
+- **Versionamento:** Git & GitHub  
 
-<div>
-  <a href = "https://web.facebook.com/sandro.maiate.33/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  <a href = "https://www.instagram.com/sgmaiate/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href = "https://twitter.com/sgmaiate"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <a href = "https://www.twitch.tv/maiate"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  <a href = "https://discord.gg/yWdQYVB7KJ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-</div>
+Busco evoluir com projetos práticos, priorizando lógica de programação, organização de código e boas práticas.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Suporte / Infraestrutura**
+- Windows e Linux  
+- Active Directory  
+- Microsoft 365 / Exchange  
+- Redes (TCP/IP, DNS, DHCP)  
+- ITIL  
+
+**Desenvolvimento**
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React (em aprendizado)  
+- Node.js (em aprendizado)  
+
+---
+
+## 📌 Projetos
+
+- **To-Do List**  
+  Aplicação web desenvolvida com **HTML, CSS e JavaScript puro**, focada em manipulação do DOM, lógica de programação e responsividade.
+
+*(Novos projetos em desenvolvimento)*
+
+---
+
+## 🎯 Objetivo
+
+Consolidar minha base em desenvolvimento web e conquistar oportunidades como **Desenvolvedor Front End Júnior**, mantendo uma evolução técnica consistente e profissional.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/sgmaiate  
+- 📧 Email: sg.maiat@gmail.com
